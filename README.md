@@ -1,3 +1,4 @@
+# [Project 04] Macro-Panel Data Mediation Analysis Pipeline
 # koweps-mediation-analysis
 
 Python replication of a published mediation analysis using KOWEPS macro-panel data. Transitioning from SPSS to programmatic statistical modeling.
@@ -21,4 +22,4 @@ Due to data privacy and access restrictions regarding national longitudinal pane
 
 **Data Source & Reference:**
 * **Dataset:** Korea Welfare Panel Study (KOWEPS), Korea Institute for Health and Social Affairs & Seoul National University.
-* **Original Study:** [여기에 사령관님께서 2저자로 참여하신 논문의 저자, 연도, 제목, 저널명을 영문으로 적어주세요]
+* **Original Study:** Young-Jae Cha, Jiwon Kim, Dayk Jang, 2017, The Effect of Harsh Early Childhood Environments of Parents on Academic Achievement of Children: The Mediating Role of Perceived Positive Parenting, Paper presented at the 10th Korea Welfare Panel Study (KOWEPS) Conference
